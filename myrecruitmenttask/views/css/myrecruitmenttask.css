@@ -1,0 +1,7 @@
+#editor .content{
+    display: flex;
+}
+
+#editor .content h4{
+    font-size: 40px;
+}
